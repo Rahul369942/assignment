@@ -12,7 +12,7 @@
 
 * Now enter the following command to compile the code file using g++.
 
-    $ g++ -o <name-you-want-to-give> source.cpp
+    $ g++ -o <name-you-want-to-give> question.1.cpp
  
    In place of <name-you-want-to-give> 
     replace it by any name like myprogram, etc.
